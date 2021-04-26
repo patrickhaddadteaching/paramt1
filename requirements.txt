@@ -3,4 +3,4 @@ ipyvuetify>=0.1.9
 voila-vuetify>=0.0.1a6
 bqplot
 numpy
-gzip>=1.2.0
+zlib>=1.2.0
